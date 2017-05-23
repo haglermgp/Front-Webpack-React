@@ -1,18 +1,18 @@
 {
-  "name": "webpack-sass",
+  "name": "front-webpack-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Configuration webpack.config.js for building React WebApps",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack -d --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haglermgp/Front-Webpack-React"
+    "url": "git+https://github.com/haglermgp/Front-Webpack-React.git"
   },
-  "author": "",
+  "author": "haglermgp",
   "homepage": "https://github.com/haglermgp/Front-Webpack-React#readme",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/haglermgp/Front-Webpack-React/issues"
   },
